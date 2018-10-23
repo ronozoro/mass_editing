@@ -3,7 +3,7 @@
    :alt: License: LGPL-3
 
 ============
-Mass Editing
+Mass Editing V 11.0 (Community and Enterprise)
 ============
 
 This module provides the following features:
